@@ -1,35 +1,57 @@
-{
-  "Brotato": {
+[
+  {
+    "name": "Brotato",
+    "imageUrl": "https://github.com/SlowScott479/SlowScott-GameLinks/blob/8d6bf756d4984706a53731366bb697cc95a29c6f/Resources/HauntedHouseRenovator.jpg",
     "url": "https://github.com/SlowScott479/SlowScott-Launcher-Games/releases/download/v1.0/Brotato.rar"
   },
-  "Cluster truck": {
+  {
+    "name": "Cluster truck",
+    "imageUrl": "URL_DA_IMAGEM_CLUSTERTRUCK",
     "url": "https://github.com/SlowScott479/SlowScott-Launcher-Games/releases/download/v1.0/ClusterTruck.rar"
   },
-  "Sons of the forest": {
+  {
+    "name": "Sons of the forest",
+    "imageUrl": "URL_DA_IMAGEM_SONSOFTHEFOREST",
     "url": "https://pixeldrain.com/api/file/9NhewX3Z"
   },
-  "Goat simulator 3": {
+  {
+    "name": "Goat simulator 3",
+    "imageUrl": "URL_DA_IMAGEM_GOATSIMULATOR3",
     "url": "https://pixeldrain.com/api/file/TuLoheiC"
   },
-  "Schedule I": {
+  {
+    "name": "Schedule I",
+    "imageUrl": "URL_DA_IMAGEM_SCHEDULEI",
     "url": "https://github.com/SlowScott479/SlowScott-Launcher-Games/releases/download/v1.0/Schedule.rar"
   },
-  "Repo": {
+  {
+    "name": "Repo",
+    "imageUrl": "URL_DA_IMAGEM_REPO",
     "url": "https://github.com/SlowScott479/SlowScott-Launcher-Games/releases/download/v1.0/REPO.rar"
   },
-  "Skullgirls 2nd encore": {
+  {
+    "name": "Skullgirls 2nd encore",
+    "imageUrl": "URL_DA_IMAGEM_SKULLGIRLS",
     "url": "https://pixeldrain.com/api/file/biGWyUcE"
   },
-  "a game about digging a hole": {
+  {
+    "name": "a game about digging a hole",
+    "imageUrl": "URL_DA_IMAGEM_AGAMEABOUTDIGGINGAHOLE",
     "url": "https://github.com/SlowScott479/SlowScott-Launcher-Games/releases/download/v1.0/AGameAbutDiggingAHole.rar"
   },
-  "Streamer life Simulator 2": {
+  {
+    "name": "Streamer life Simulator 2",
+    "imageUrl": "URL_DA_IMAGEM_STREAMERLIFESIMULATOR2",
     "url": "https://pixeldrain.com/api/file/Qme85yFD"
   },
-  "KitHack Model Club": {
-    "url": "https://pixeldrain.com/api/file/49tj3qha"
-	  },
-  "Haunted House Renovator": {
+    {
+    "name": "Haunted House Renovator",
+    "imageUrl": "URL_DA_IMAGEM_HAUNTEDHOUSERENOVATOR",
     "url": "https://pixeldrain.com/api/file/ujqi2Crj"
-  }
-}
+  },
+  {
+    "name": "KitHack Model Club",
+    "imageUrl": "URL_DA_IMAGEM_KITHACKMODELCLUB",
+    "url": "https://pixeldrain.com/api/file/49tj3qha"
+	  }
+]
